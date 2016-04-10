@@ -1,5 +1,5 @@
 ﻿# hello-retrofit
-网络请求库
+网络请求
 retrofit okhttp volley ...
 add RxJava
 #ubuntu 14
