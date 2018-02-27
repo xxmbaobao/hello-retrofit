@@ -9,7 +9,7 @@ I'm Forker 2
 
 upload pic
 
-<<<<<<coooer>>>>>>
+
 =====Im imistar===
 
 
@@ -17,3 +17,5 @@ upload pic
 
 
 20180223 git clone
+new branch add
+test brach added 20180227
